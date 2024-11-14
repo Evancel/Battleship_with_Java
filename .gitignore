@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship with Java/*
+!/Battleship with Java/task/
+/Battleship with Java/task/*
+!/Battleship with Java/task/src
+
+# Project exclude paths
+/Topics/Fields and methods in enum/Balance management/out/
+/Topics/Fields and methods in enum/Balance management/out/production/classes/
+/Topics/Fields and methods in enum/Danger levels/out/
+/Topics/Fields and methods in enum/Danger levels/out/production/classes/
